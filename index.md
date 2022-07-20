@@ -17,7 +17,7 @@ Welcome to the official website for Stormchaser Roleplaying.
 
 <p align="center">
   
-  <a href="https://stormchaserroleplaying.github.io/">stormchaser-roleplaying.github.io</a><br>
+  <a href="https://stormchaser-roleplaying.github.io/">stormchaser-roleplaying.github.io</a><br>
   
   <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
   
