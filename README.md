@@ -1,2 +1,2 @@
-# https://stormchaser-roleplaying.github.io/
+# stormchaserroleplaying.com
 The official website for Stormchaser Roleplaying.
