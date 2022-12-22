@@ -9,7 +9,7 @@ I'm Kyle, also known as 'Stormchaser', and I'm a veteran Games Master and writer
 
 Roughly half of my campaigns are set in my own custom, self-written fantasy setting of *Arden*, a world steeped in intricate mysteries and deep lore. These games are also run using my own systems; the [Stormchaser Roleplaying Game](https://stormchaserroleplaying.com/stormchaserRPG/) and [Heroes in the Storm](https://stormchaserroleplaying.com/heroesinthestorm/), a Forged in the Dark RPG for high-fantasy adventures.
 
-More information on Stormchaser Roleplaying projects, house rules and campaigns can be found at www.stormchaserroleplaying.com, as well as in the list of links below.
+More information on Stormchaser Roleplaying projects, house rules and campaigns can be found at [www.stormchaserroleplaying.com](www.stormchaserroleplaying.com), as well as in the list of links below.
 
 # Helpful Links
 * [The Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/) (*Under Construction*)
